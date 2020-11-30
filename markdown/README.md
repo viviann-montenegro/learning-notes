@@ -22,9 +22,9 @@ As principais **sintaxes** de caracteres interpretados pelo markdown que utiliza
 É possível também criar **tabelas** com o markdown:
 
 - _titulo da coluna 1  \| titulo da coluna 2_
-  _\----------------------   |  ---------------------_
-  _linha 1, coluna 1   \|  linha 1, coluna 2_
-_linha 2, coluna 1   \|  linha 2, coluna 2_
+- _\----------------------   |  ---------------------_
+- _linha 1, coluna 1   \|  linha 1, coluna 2_
+- _linha 2, coluna 1   \|  linha 2, coluna 2_
 
 Escreva os nomes das colunas **separados** por _“ \|"_ e depois separe a linha de baixo com _“\-"_, então preencha as linhas sempre separando com _“ \|"_ nos locais das **colunas**. Para organizar o texto dentro das tabelas podemos alinha-lo às colunas à **esquerda**, utilizando _“ : ”_ **antes** do texto (“ : ‘texto’ ”, este é o alinhamento padrão), à **direita**, utilizando _“ : ”_ **depois** do texto (“ ‘texto’ : ”) e ao **centro**, utilizando _“ : ”_ **antes e depois** do texto (“ : ‘texto’ : ”).
 
