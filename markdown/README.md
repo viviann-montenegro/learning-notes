@@ -22,7 +22,7 @@ As principais **sintaxes** de caracteres interpretados pelo markdown que utiliza
 É possível também criar **tabelas** com o markdown:
 
 - _titulo da coluna 1  \| titulo da coluna 2_
-- _\----------------------   |  ---------------------_
+- _\------------------   |  ---------------------_
 - _linha 1, coluna 1   \|  linha 1, coluna 2_
 - _linha 2, coluna 1   \|  linha 2, coluna 2_
 
