@@ -34,7 +34,7 @@ Os comandos para se utilizar o **git bash** são semelhantes aos comandos no **c
 - _git status_ - mostra o status dos arquivos (unmodified, modified ou staged) e se precisa de um commit.
 - _git remote add origin https://github.com/use/nome-do-repositorio.git_ - adiciona o caminho à ‘origin’.
 - _git remote -v_ - lista os repositórios remotos cadastrados e seus identificadores.
-- _git remote origin master_ - envia o repositório local para o remoto.
+- _git push origin master_ - envia o repositório local para o remoto.
 - _git pull origin master_ - puxa o repositório remoto para o local.
 - _git clone https://github.com/user/nome-do-repositorio.git_ - baixa um repositório remoto e cria uma cópia na maquina local.
 
